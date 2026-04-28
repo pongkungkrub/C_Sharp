@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CdHwQpZ/1as=",
+  "success": true,
+  "projectFilePath": "D:\\Projects C#\\Work\\C_Sharp\\WebView_Test_01\\WebView_Test_01\\WebView_Test_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.web.webview2\\1.0.3912.50\\microsoft.web.webview2.1.0.3912.50.nupkg.sha512"
+  ],
+  "logs": []
+}
